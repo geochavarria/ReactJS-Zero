@@ -7,8 +7,6 @@ const getResult = (a,b) => {
     return a + b;
 }
 export const FirstApp = () => {
-
-    
     return(
         <>
             <h1>{  getResult(1,9) }</h1>
